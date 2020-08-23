@@ -1,4 +1,1 @@
 CREATE DATABASE WayFarerDB;
-
-
-CREATE TABLE user;
