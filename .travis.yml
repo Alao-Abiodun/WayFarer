@@ -5,10 +5,3 @@ cache: npm
 
 install:
   - npm install
-
-branches:
-  only: master
-
-script:
-  - npm test
-  - npm run build
