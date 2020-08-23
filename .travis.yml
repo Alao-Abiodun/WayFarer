@@ -5,3 +5,6 @@ cache: npm
 
 install:
   - npm install
+
+branches:
+  only: master
